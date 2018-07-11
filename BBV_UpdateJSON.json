@@ -2,10 +2,10 @@
 	"homepage": "https://minecraft.curseforge.com/projects/biome-border-viewer",
 	"promos": {
 		"1.12.2-latest": "1.2.2",
-		"1.12.2-recommended": "1.2.2"
-	}
+		"1.12.2-recommended": "1.2.2",
+	},
 	"1.12.2": {
 		"1.2.1": "Added support for forge's auto update checker\nAdded a config option for how high off the ground the line should be",
-		"1.2.2": "Dummy version"
+		"1.2.2": "Dummy version",
 	}
 }
