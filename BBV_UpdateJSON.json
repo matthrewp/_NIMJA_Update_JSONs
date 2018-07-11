@@ -5,9 +5,7 @@
 		"1.12.2-recommended": "1.2.1",
 	}
 	"1.12.2": {
-		"1.0.0": "".
-		"1.1.0": "Line color is now configurable",
-		"1.2.0": "-Organized config (Old config files will need to be deleted!)\n-Lines now have 2 colors to pick from, based on how similar the biomes are. Biome similarity is based on the biome's temperature category. If you don't want to use this feature, simply make both lines the same color (default).",
-		"1.2.1": "Added support for forge's auto update checker",
+		"1.2.1": "Added support for forge's auto update checker\nAdded a config option for how high off the ground the line should be",
+		"1.2.2": "Dummy version",
 	}
 }
